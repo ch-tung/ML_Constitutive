@@ -1,10 +1,10 @@
 # Run Fenics Jobs on Docker
 Tested by chtung 04/24/2022 on Docker Desktop 4.6.1
 * ## For the first time
-	Create Docker container
+	### Create Docker container
 		docker run --name notebook -w /home/fenics -v ${pwd}:/home/fenics/shared -d -p 127.0.0.1:8888:8888 quay.io/fenicsproject/stable 'jupyter-notebook --ip=0.0.0.0'
 		start "http://localhost:8888"
-	Get the login token for jupyter-notebook
+	### Get the login token for jupyter-notebook
 		docker logs notebook
 
 * ## Start the created Docker container
