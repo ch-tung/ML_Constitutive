@@ -1,5 +1,7 @@
 import numpy as np
+import numba as nb
 
+@nb.jit()
 def RSHEscore(epsilon):
     e_xx = epsilon[0]
     e_yy = epsilon[1]
