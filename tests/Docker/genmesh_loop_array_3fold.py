@@ -1,5 +1,5 @@
 from fenics import *
-from dolfin_adjoint import *
+# from dolfin_adjoint import *
 import pygmsh_mesh_functions
 from pygmsh_mesh_functions import *
 import meshio
@@ -54,23 +54,31 @@ def genmesh_loop_array_3fold(A = np.array([1.0,0.75,0.01]), twist = 0, margin = 
     phi = np.arange(n_phi+1)/n_phi*2*np.pi
     scale = 1/size/2*(1-margin)
 
-    r = np.zeros((2,n_phi+1))
+    r = np.zeros((n_phi+1))
+    v = np.zeros((2,n_phi+1))
     for i in range(len(A)):
-        ri = np.array([np.cos(phi), np.sin(phi)])*np.cos(3*(i)*phi)*A[i]
+        ri = np.cos(3*(i)*phi)*A[i]
+        vi = np.array([np.cos(phi), np.sin(phi)])*ri
+        v = v+vi
         r = r+ri
-#     r = r/np.sum(A)
-    r = r*scale
+        
+    r_square_mean = np.mean(r**2)
+    r_mean = np.mean(r)
+    v = v/np.sqrt(r_square_mean)*r_mean
+#     v = v/np.sum(np.abs(A))
+    v = v*scale
 
     Lx = 1
     Ly = 1
 
-    meshsize_min = 0.015
-    meshsize_max = 0.015
+    meshsize_min = 0.05*min(Lx,Ly)#0.015*min(Lx,Ly)
+    meshsize_max = 0.15*min(Lx,Ly)
+    print(meshsize_min)
 
-    pygmsh_mesh_functions.hmeshmin = meshsize_min
-    pygmsh_mesh_functions.hmeshmax = meshsize_max
-
-    reset_geometry()
+#     pygmsh_mesh_functions.hmeshmin = meshsize_min
+#     pygmsh_mesh_functions.hmeshmax = meshsize_max
+    
+    pygmsh_mesh_functions.reset_geometry_parameters(meshsize_min,meshsize_max)
 
     domain = add_polygon([(0, 0), (Lx, 0), (Lx, Ly), (0, Ly)])
     X0 = np.array([0, 0])
@@ -80,7 +88,7 @@ def genmesh_loop_array_3fold(A = np.array([1.0,0.75,0.01]), twist = 0, margin = 
         co, so = np.cos(theta1[i]), np.sin(theta1[i])
         Rotation = np.array(((co, -so), (so, co)))
 
-        polygon = (Rotation@r).T
+        polygon = (Rotation@v).T
         polygon = polygon[:-1]
 
         polygon_subdivide = subdivide_polygon(polygon, degree=2, preserve_ends=True)
@@ -93,7 +101,7 @@ def genmesh_loop_array_3fold(A = np.array([1.0,0.75,0.01]), twist = 0, margin = 
         co, so = np.cos(theta1[i]), np.sin(theta1[i])
         Rotation = np.array(((co, -so), (so, co)))
 
-        polygon = (Rotation@r).T
+        polygon = (Rotation@v).T
         polygon = polygon[:-1]
 
         polygon_subdivide = subdivide_polygon(polygon, degree=2, preserve_ends=True)
@@ -113,3 +121,5 @@ def genmesh_loop_array_3fold(A = np.array([1.0,0.75,0.01]), twist = 0, margin = 
 
     plot(mesh)
     len(mesh.coordinates())
+    
+    return mesh

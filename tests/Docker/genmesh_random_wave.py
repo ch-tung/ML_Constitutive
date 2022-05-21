@@ -14,8 +14,8 @@ from img2mesh import *
 
 alpha = 2.5e-2
 
-K_xx = 30**2
-K_yy = 20**2
+K_xx = 4**2
+K_yy = 3**2
 K_xy = 0
 K0 = np.array([[K_xx,K_xy],[K_xy,K_yy]])
 
@@ -39,8 +39,8 @@ def genmesh_random_wave(alpha = 2.5e-2, K = K0 + np.eye(2)*eps,
         u = np.random.normal(size=2)
         k_i = L.T@u
 
-        phase = np.random.rand()*2*np.pi
-        phi_i = np.exp(1j*(k_i[0]*xx + k_i[1]*yy + phase))
+        phase = np.random.rand()
+        phi_i = np.exp(1j*(k_i[0]*xx + k_i[1]*yy + phase)*2*np.pi)
 
         phi = phi + phi_i
 
@@ -58,3 +58,5 @@ def genmesh_random_wave(alpha = 2.5e-2, K = K0 + np.eye(2)*eps,
     contours_list = find_contours(img, 0)
     
     img2mesh(img, filename, meshsize_min = 0.025, meshsize_max = 0.05)
+    
+    return mesh

@@ -14,10 +14,10 @@ from img2mesh import *
 
 alpha = 2e-2
 
-Kx = 36
-Ky = 27
+Kx = 4
+Ky = 3
 
-def genmesh_spinodal(alpha = 2.5e-2, Kx = 36, Ky = 27,
+def genmesh_spinodal(alpha = 2.5e-2, Kx = 4, Ky = 3,
                         n_wave = 500, n_x = 100, n_y = 100, 
                         filename = "test_spinodal.xdmf"):
     
@@ -32,8 +32,8 @@ def genmesh_spinodal(alpha = 2.5e-2, Kx = 36, Ky = 27,
         theta = np.random.rand()*2*pi
         k_i = np.array([Kx*np.cos(theta),Ky*np.sin(theta)])
 
-        phase = np.random.rand()*2*np.pi
-        phi_i = np.exp(1j*(k_i[0]*xx + k_i[1]*yy + phase))
+        phase = np.random.rand()
+        phi_i = np.exp(1j*(k_i[0]*xx + k_i[1]*yy + phase)*2*np.pi)
 
         phi = phi + phi_i
 
@@ -51,3 +51,5 @@ def genmesh_spinodal(alpha = 2.5e-2, Kx = 36, Ky = 27,
     contours_list = find_contours(img, 0)
     
     img2mesh(img, filename, meshsize_min = 0.025, meshsize_max = 0.05)
+    
+    return mesh
