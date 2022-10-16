@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<Xdmf Version="3.0">
+  <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal" Name="r">
+      <Grid Name="r_0" GridType="Uniform">
+        <Topology NumberOfElements="9500" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="9500 3" NumberType="UInt" Format="HDF">r.h5:r/r_0/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4935 2" Format="HDF">r.h5:r/r_0/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="0.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="r" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="28500 1" NumberType="UInt" Format="HDF">r.h5:r/r_0/cell_dofs</DataItem>
+          <DataItem Dimensions="4935 1" NumberType="Float" Format="HDF">r.h5:r/r_0/vector</DataItem>
+          <DataItem Dimensions="9501 1" NumberType="UInt" Format="HDF">r.h5:r/r_0/x_cell_dofs</DataItem>
+          <DataItem Dimensions="9500 1" NumberType="UInt" Format="HDF">r.h5:r/r_0/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="r_1" GridType="Uniform">
+        <Topology NumberOfElements="9500" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="9500 3" NumberType="UInt" Format="HDF">r.h5:r/r_1/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4935 2" Format="HDF">r.h5:r/r_1/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="2.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="r" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="28500 1" NumberType="UInt" Format="HDF">r.h5:r/r_1/cell_dofs</DataItem>
+          <DataItem Dimensions="4935 1" NumberType="Float" Format="HDF">r.h5:r/r_1/vector</DataItem>
+          <DataItem Dimensions="9501 1" NumberType="UInt" Format="HDF">r.h5:r/r_1/x_cell_dofs</DataItem>
+          <DataItem Dimensions="9500 1" NumberType="UInt" Format="HDF">r.h5:r/r_1/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="r_2" GridType="Uniform">
+        <Topology NumberOfElements="9500" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="9500 3" NumberType="UInt" Format="HDF">r.h5:r/r_2/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4935 2" Format="HDF">r.h5:r/r_2/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="5.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="r" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="28500 1" NumberType="UInt" Format="HDF">r.h5:r/r_2/cell_dofs</DataItem>
+          <DataItem Dimensions="4935 1" NumberType="Float" Format="HDF">r.h5:r/r_2/vector</DataItem>
+          <DataItem Dimensions="9501 1" NumberType="UInt" Format="HDF">r.h5:r/r_2/x_cell_dofs</DataItem>
+          <DataItem Dimensions="9500 1" NumberType="UInt" Format="HDF">r.h5:r/r_2/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="r_3" GridType="Uniform">
+        <Topology NumberOfElements="9500" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="9500 3" NumberType="UInt" Format="HDF">r.h5:r/r_3/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4935 2" Format="HDF">r.h5:r/r_3/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="8.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="r" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="28500 1" NumberType="UInt" Format="HDF">r.h5:r/r_3/cell_dofs</DataItem>
+          <DataItem Dimensions="4935 1" NumberType="Float" Format="HDF">r.h5:r/r_3/vector</DataItem>
+          <DataItem Dimensions="9501 1" NumberType="UInt" Format="HDF">r.h5:r/r_3/x_cell_dofs</DataItem>
+          <DataItem Dimensions="9500 1" NumberType="UInt" Format="HDF">r.h5:r/r_3/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="r_4" GridType="Uniform">
+        <Topology NumberOfElements="9500" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="9500 3" NumberType="UInt" Format="HDF">r.h5:r/r_4/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4935 2" Format="HDF">r.h5:r/r_4/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="10.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="r" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="28500 1" NumberType="UInt" Format="HDF">r.h5:r/r_4/cell_dofs</DataItem>
+          <DataItem Dimensions="4935 1" NumberType="Float" Format="HDF">r.h5:r/r_4/vector</DataItem>
+          <DataItem Dimensions="9501 1" NumberType="UInt" Format="HDF">r.h5:r/r_4/x_cell_dofs</DataItem>
+          <DataItem Dimensions="9500 1" NumberType="UInt" Format="HDF">r.h5:r/r_4/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="r_5" GridType="Uniform">
+        <Topology NumberOfElements="9500" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="9500 3" NumberType="UInt" Format="HDF">r.h5:r/r_5/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4935 2" Format="HDF">r.h5:r/r_5/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="13.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="r" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="28500 1" NumberType="UInt" Format="HDF">r.h5:r/r_5/cell_dofs</DataItem>
+          <DataItem Dimensions="4935 1" NumberType="Float" Format="HDF">r.h5:r/r_5/vector</DataItem>
+          <DataItem Dimensions="9501 1" NumberType="UInt" Format="HDF">r.h5:r/r_5/x_cell_dofs</DataItem>
+          <DataItem Dimensions="9500 1" NumberType="UInt" Format="HDF">r.h5:r/r_5/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="r_6" GridType="Uniform">
+        <Topology NumberOfElements="9500" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="9500 3" NumberType="UInt" Format="HDF">r.h5:r/r_6/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4935 2" Format="HDF">r.h5:r/r_6/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="16.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="r" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="28500 1" NumberType="UInt" Format="HDF">r.h5:r/r_6/cell_dofs</DataItem>
+          <DataItem Dimensions="4935 1" NumberType="Float" Format="HDF">r.h5:r/r_6/vector</DataItem>
+          <DataItem Dimensions="9501 1" NumberType="UInt" Format="HDF">r.h5:r/r_6/x_cell_dofs</DataItem>
+          <DataItem Dimensions="9500 1" NumberType="UInt" Format="HDF">r.h5:r/r_6/cells</DataItem>
+        </Attribute>
+      </Grid>
+    </Grid>
+  </Domain>
+</Xdmf>

@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<Xdmf Version="3.0">
+  <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal" Name="strain">
+      <Grid Name="strain_0" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_0/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_0/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="0.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_0/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_0/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_0/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_0/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_1" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_1/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_1/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="2.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_1/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_1/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_1/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_1/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_2" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_2/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_2/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="5.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_2/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_2/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_2/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_2/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_3" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_3/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_3/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="8.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_3/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_3/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_3/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_3/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_4" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_4/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_4/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="10.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_4/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_4/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_4/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_4/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_5" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_5/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_5/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="13.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_5/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_5/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_5/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_5/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_6" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_6/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_6/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="16.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_6/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_6/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_6/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_6/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_7" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_7/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_7/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="18.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_7/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_7/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_7/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_7/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_8" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_8/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_8/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="21.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_8/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_8/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_8/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_8/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_9" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_9/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_9/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="24.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_9/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_9/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_9/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_9/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_10" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_10/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_10/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="26.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_10/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_10/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_10/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_10/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_11" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_11/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_11/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="29.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_11/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_11/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_11/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_11/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_12" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_12/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_12/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="32.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_12/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_12/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_12/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_12/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_13" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_13/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_13/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="34.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_13/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_13/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_13/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_13/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_14" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_14/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_14/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="37.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_14/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_14/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_14/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_14/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="strain_15" GridType="Uniform">
+        <Topology NumberOfElements="7517" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="7517 3" NumberType="UInt" Format="HDF">strain.h5:strain/strain_15/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="4246 2" Format="HDF">strain.h5:strain/strain_15/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="40.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="strain" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="22551 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_15/cell_dofs</DataItem>
+          <DataItem Dimensions="4246 1" NumberType="Float" Format="HDF">strain.h5:strain/strain_15/vector</DataItem>
+          <DataItem Dimensions="7518 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_15/x_cell_dofs</DataItem>
+          <DataItem Dimensions="7517 1" NumberType="UInt" Format="HDF">strain.h5:strain/strain_15/cells</DataItem>
+        </Attribute>
+      </Grid>
+    </Grid>
+  </Domain>
+</Xdmf>

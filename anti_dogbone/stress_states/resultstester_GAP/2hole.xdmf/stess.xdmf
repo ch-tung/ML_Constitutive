@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<Xdmf Version="3.0">
+  <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal" Name="stress">
+      <Grid Name="stress_0" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_0/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_0/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="0.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_0/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_0/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_0/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_0/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_1" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_1/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_1/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="2.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_1/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_1/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_1/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_1/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_2" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_2/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_2/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="5.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_2/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_2/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_2/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_2/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_3" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_3/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_3/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="8.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_3/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_3/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_3/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_3/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_4" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_4/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_4/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="10.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_4/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_4/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_4/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_4/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_5" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_5/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_5/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="13.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_5/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_5/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_5/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_5/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_6" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_6/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_6/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="16.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_6/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_6/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_6/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_6/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_7" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_7/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_7/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="18.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_7/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_7/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_7/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_7/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_8" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_8/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_8/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="21.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_8/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_8/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_8/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_8/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_9" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_9/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_9/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="24.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_9/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_9/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_9/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_9/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_10" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_10/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_10/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="26.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_10/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_10/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_10/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_10/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_11" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_11/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_11/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="29.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_11/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_11/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_11/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_11/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_12" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_12/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_12/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="32.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_12/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_12/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_12/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_12/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_13" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_13/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_13/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="34.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_13/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_13/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_13/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_13/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_14" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_14/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_14/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="37.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_14/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_14/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_14/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_14/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_15" GridType="Uniform">
+        <Topology NumberOfElements="2352" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2352 3" NumberType="UInt" Format="HDF">stess.h5:stress/stress_15/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1318 2" Format="HDF">stess.h5:stress/stress_15/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="40.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress" Center="Other" AttributeType="Tensor">
+          <DataItem Dimensions="28224 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_15/cell_dofs</DataItem>
+          <DataItem Dimensions="5272 1" NumberType="Float" Format="HDF">stess.h5:stress/stress_15/vector</DataItem>
+          <DataItem Dimensions="2353 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_15/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2352 1" NumberType="UInt" Format="HDF">stess.h5:stress/stress_15/cells</DataItem>
+        </Attribute>
+      </Grid>
+    </Grid>
+  </Domain>
+</Xdmf>

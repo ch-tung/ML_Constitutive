@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<Xdmf Version="3.0">
+  <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal" Name="displacement">
+      <Grid Name="displacement_0" GridType="Uniform">
+        <Topology NumberOfElements="2780" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2780 3" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_0/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1655 2" Format="HDF">displacement.h5:displacement/displacement_0/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="0.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="displacement" Center="Other" AttributeType="Vector">
+          <DataItem Dimensions="16680 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_0/cell_dofs</DataItem>
+          <DataItem Dimensions="3310 1" NumberType="Float" Format="HDF">displacement.h5:displacement/displacement_0/vector</DataItem>
+          <DataItem Dimensions="2781 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_0/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2780 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_0/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="displacement_1" GridType="Uniform">
+        <Topology NumberOfElements="2780" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2780 3" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_1/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1655 2" Format="HDF">displacement.h5:displacement/displacement_1/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="2.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="displacement" Center="Other" AttributeType="Vector">
+          <DataItem Dimensions="16680 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_1/cell_dofs</DataItem>
+          <DataItem Dimensions="3310 1" NumberType="Float" Format="HDF">displacement.h5:displacement/displacement_1/vector</DataItem>
+          <DataItem Dimensions="2781 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_1/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2780 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_1/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="displacement_2" GridType="Uniform">
+        <Topology NumberOfElements="2780" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2780 3" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_2/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1655 2" Format="HDF">displacement.h5:displacement/displacement_2/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="5.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="displacement" Center="Other" AttributeType="Vector">
+          <DataItem Dimensions="16680 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_2/cell_dofs</DataItem>
+          <DataItem Dimensions="3310 1" NumberType="Float" Format="HDF">displacement.h5:displacement/displacement_2/vector</DataItem>
+          <DataItem Dimensions="2781 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_2/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2780 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_2/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="displacement_3" GridType="Uniform">
+        <Topology NumberOfElements="2780" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2780 3" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_3/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1655 2" Format="HDF">displacement.h5:displacement/displacement_3/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="8.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="displacement" Center="Other" AttributeType="Vector">
+          <DataItem Dimensions="16680 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_3/cell_dofs</DataItem>
+          <DataItem Dimensions="3310 1" NumberType="Float" Format="HDF">displacement.h5:displacement/displacement_3/vector</DataItem>
+          <DataItem Dimensions="2781 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_3/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2780 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_3/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="displacement_4" GridType="Uniform">
+        <Topology NumberOfElements="2780" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2780 3" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_4/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1655 2" Format="HDF">displacement.h5:displacement/displacement_4/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="10.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="displacement" Center="Other" AttributeType="Vector">
+          <DataItem Dimensions="16680 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_4/cell_dofs</DataItem>
+          <DataItem Dimensions="3310 1" NumberType="Float" Format="HDF">displacement.h5:displacement/displacement_4/vector</DataItem>
+          <DataItem Dimensions="2781 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_4/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2780 1" NumberType="UInt" Format="HDF">displacement.h5:displacement/displacement_4/cells</DataItem>
+        </Attribute>
+      </Grid>
+    </Grid>
+  </Domain>
+</Xdmf>

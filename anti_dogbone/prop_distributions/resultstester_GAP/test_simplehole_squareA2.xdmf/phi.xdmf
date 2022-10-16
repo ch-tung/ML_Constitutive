@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<Xdmf Version="3.0">
+  <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal" Name="phi">
+      <Grid Name="phi_0" GridType="Uniform">
+        <Topology NumberOfElements="10000" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="10000 3" NumberType="UInt" Format="HDF">phi.h5:phi/phi_0/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="5168 2" Format="HDF">phi.h5:phi/phi_0/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="0.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="phi" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="30000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_0/cell_dofs</DataItem>
+          <DataItem Dimensions="5168 1" NumberType="Float" Format="HDF">phi.h5:phi/phi_0/vector</DataItem>
+          <DataItem Dimensions="10001 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_0/x_cell_dofs</DataItem>
+          <DataItem Dimensions="10000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_0/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="phi_1" GridType="Uniform">
+        <Topology NumberOfElements="10000" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="10000 3" NumberType="UInt" Format="HDF">phi.h5:phi/phi_1/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="5168 2" Format="HDF">phi.h5:phi/phi_1/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="2.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="phi" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="30000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_1/cell_dofs</DataItem>
+          <DataItem Dimensions="5168 1" NumberType="Float" Format="HDF">phi.h5:phi/phi_1/vector</DataItem>
+          <DataItem Dimensions="10001 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_1/x_cell_dofs</DataItem>
+          <DataItem Dimensions="10000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_1/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="phi_2" GridType="Uniform">
+        <Topology NumberOfElements="10000" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="10000 3" NumberType="UInt" Format="HDF">phi.h5:phi/phi_2/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="5168 2" Format="HDF">phi.h5:phi/phi_2/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="5.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="phi" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="30000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_2/cell_dofs</DataItem>
+          <DataItem Dimensions="5168 1" NumberType="Float" Format="HDF">phi.h5:phi/phi_2/vector</DataItem>
+          <DataItem Dimensions="10001 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_2/x_cell_dofs</DataItem>
+          <DataItem Dimensions="10000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_2/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="phi_3" GridType="Uniform">
+        <Topology NumberOfElements="10000" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="10000 3" NumberType="UInt" Format="HDF">phi.h5:phi/phi_3/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="5168 2" Format="HDF">phi.h5:phi/phi_3/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="8.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="phi" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="30000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_3/cell_dofs</DataItem>
+          <DataItem Dimensions="5168 1" NumberType="Float" Format="HDF">phi.h5:phi/phi_3/vector</DataItem>
+          <DataItem Dimensions="10001 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_3/x_cell_dofs</DataItem>
+          <DataItem Dimensions="10000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_3/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="phi_4" GridType="Uniform">
+        <Topology NumberOfElements="10000" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="10000 3" NumberType="UInt" Format="HDF">phi.h5:phi/phi_4/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="5168 2" Format="HDF">phi.h5:phi/phi_4/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="10.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="phi" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="30000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_4/cell_dofs</DataItem>
+          <DataItem Dimensions="5168 1" NumberType="Float" Format="HDF">phi.h5:phi/phi_4/vector</DataItem>
+          <DataItem Dimensions="10001 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_4/x_cell_dofs</DataItem>
+          <DataItem Dimensions="10000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_4/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="phi_5" GridType="Uniform">
+        <Topology NumberOfElements="10000" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="10000 3" NumberType="UInt" Format="HDF">phi.h5:phi/phi_5/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="5168 2" Format="HDF">phi.h5:phi/phi_5/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="13.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="phi" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="30000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_5/cell_dofs</DataItem>
+          <DataItem Dimensions="5168 1" NumberType="Float" Format="HDF">phi.h5:phi/phi_5/vector</DataItem>
+          <DataItem Dimensions="10001 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_5/x_cell_dofs</DataItem>
+          <DataItem Dimensions="10000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_5/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="phi_6" GridType="Uniform">
+        <Topology NumberOfElements="10000" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="10000 3" NumberType="UInt" Format="HDF">phi.h5:phi/phi_6/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="5168 2" Format="HDF">phi.h5:phi/phi_6/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="16.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="phi" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="30000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_6/cell_dofs</DataItem>
+          <DataItem Dimensions="5168 1" NumberType="Float" Format="HDF">phi.h5:phi/phi_6/vector</DataItem>
+          <DataItem Dimensions="10001 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_6/x_cell_dofs</DataItem>
+          <DataItem Dimensions="10000 1" NumberType="UInt" Format="HDF">phi.h5:phi/phi_6/cells</DataItem>
+        </Attribute>
+      </Grid>
+    </Grid>
+  </Domain>
+</Xdmf>

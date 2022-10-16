@@ -1,0 +1,6 @@
+ERROR: Unable to locate a modulefile for 'anaconda/2020a'
+Traceback (most recent call last):
+  File "./Gap_score_batch.py", line 53, in <module>
+    import meshio
+ImportError: No module named meshio
+>>> 

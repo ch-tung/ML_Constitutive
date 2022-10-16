@@ -1,0 +1,5 @@
+---GWO Results---
+best sample : [0.02       0.13541969 0.99279347 1.        ]
+best fitness : 0.03023210807953645
+
+EXECUTION TIME ---------> 17:06:16.211913

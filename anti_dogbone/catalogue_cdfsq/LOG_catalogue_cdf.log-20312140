@@ -1,0 +1,2304 @@
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           d-19-15-4
+  Local device:         mlx5_1
+  Local port:           1
+  CPCs attempted:       udcm
+--------------------------------------------------------------------------
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:16,  1.79s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.302e-07 (tol = 1.000e-10) r (rel) = 1.827e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:02<00:11,  1.45s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.638e-07 (tol = 1.000e-10) r (rel) = 2.012e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:03<00:08,  1.19s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.141e-07 (tol = 1.000e-10) r (rel) = 2.291e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:03<00:06,  1.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.507e-07 (tol = 1.000e-10) r (rel) = 2.493e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:04<00:04,  1.10it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.360e-07 (tol = 1.000e-10) r (rel) = 2.965e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:05<00:03,  1.19it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.906e-07 (tol = 1.000e-10) r (rel) = 3.267e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:05<00:02,  1.32it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.898e-07 (tol = 1.000e-10) r (rel) = 3.263e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:06<00:01,  1.37it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.168e-07 (tol = 1.000e-10) r (rel) = 3.412e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:06<00:00,  1.45it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.118e-07 (tol = 1.000e-10) r (rel) = 3.938e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:07<00:00,  1.49it/s]100%|██████████| 10/10 [00:07<00:00,  1.34it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:06,  1.42it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.302e-07 (tol = 1.000e-10) r (rel) = 1.827e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:05,  1.49it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.638e-07 (tol = 1.000e-10) r (rel) = 2.012e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:01<00:04,  1.48it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.141e-07 (tol = 1.000e-10) r (rel) = 2.291e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:03,  1.53it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.507e-07 (tol = 1.000e-10) r (rel) = 2.493e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:03<00:03,  1.53it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.360e-07 (tol = 1.000e-10) r (rel) = 2.965e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:03<00:02,  1.50it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.906e-07 (tol = 1.000e-10) r (rel) = 3.267e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:04<00:01,  1.54it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.898e-07 (tol = 1.000e-10) r (rel) = 3.263e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:05<00:01,  1.47it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.168e-07 (tol = 1.000e-10) r (rel) = 3.412e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:05<00:00,  1.51it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.808e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.118e-07 (tol = 1.000e-10) r (rel) = 3.938e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:06<00:00,  1.47it/s]100%|██████████| 10/10 [00:06<00:00,  1.51it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:09,  1.10s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.679e-07 (tol = 1.000e-10) r (rel) = 2.075e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:02<00:08,  1.11s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.054e-07 (tol = 1.000e-10) r (rel) = 2.287e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:03<00:07,  1.12s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.806e-07 (tol = 1.000e-10) r (rel) = 2.711e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:04<00:06,  1.12s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.857e-07 (tol = 1.000e-10) r (rel) = 2.740e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:05<00:05,  1.12s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.737e-07 (tol = 1.000e-10) r (rel) = 3.237e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:06<00:04,  1.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.366e-07 (tol = 1.000e-10) r (rel) = 3.592e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:07<00:03,  1.07s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.930e-07 (tol = 1.000e-10) r (rel) = 3.910e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:08<00:02,  1.08s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.461e-07 (tol = 1.000e-10) r (rel) = 4.209e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:09<00:01,  1.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.875e-07 (tol = 1.000e-10) r (rel) = 4.443e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:10<00:00,  1.09s/it]100%|██████████| 10/10 [00:10<00:00,  1.10s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:09,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.679e-07 (tol = 1.000e-10) r (rel) = 2.075e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:02<00:08,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.054e-07 (tol = 1.000e-10) r (rel) = 2.287e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:03<00:07,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.806e-07 (tol = 1.000e-10) r (rel) = 2.711e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:04<00:06,  1.04s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.857e-07 (tol = 1.000e-10) r (rel) = 2.740e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:05<00:05,  1.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.737e-07 (tol = 1.000e-10) r (rel) = 3.237e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:06<00:04,  1.06s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.366e-07 (tol = 1.000e-10) r (rel) = 3.592e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:07<00:03,  1.07s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.930e-07 (tol = 1.000e-10) r (rel) = 3.910e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:08<00:02,  1.08s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.461e-07 (tol = 1.000e-10) r (rel) = 4.209e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:09<00:01,  1.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.773e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.875e-07 (tol = 1.000e-10) r (rel) = 4.443e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:10<00:00,  1.08s/it]100%|██████████| 10/10 [00:10<00:00,  1.07s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:09,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.427e-07 (tol = 1.000e-10) r (rel) = 2.086e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:02<00:08,  1.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.791e-07 (tol = 1.000e-10) r (rel) = 2.308e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:03<00:07,  1.07s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.388e-07 (tol = 1.000e-10) r (rel) = 2.672e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:04<00:06,  1.08s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.629e-07 (tol = 1.000e-10) r (rel) = 2.819e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:05<00:05,  1.07s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.841e-07 (tol = 1.000e-10) r (rel) = 3.556e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:06<00:04,  1.06s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.096e-07 (tol = 1.000e-10) r (rel) = 3.711e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:07<00:03,  1.06s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.015e-07 (tol = 1.000e-10) r (rel) = 4.271e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:08<00:02,  1.06s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.304e-07 (tol = 1.000e-10) r (rel) = 4.447e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:09<00:01,  1.04s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.677e-07 (tol = 1.000e-10) r (rel) = 4.674e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:10<00:00,  1.04s/it]100%|██████████| 10/10 [00:10<00:00,  1.06s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:09,  1.02s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.427e-07 (tol = 1.000e-10) r (rel) = 2.086e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:02<00:08,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.791e-07 (tol = 1.000e-10) r (rel) = 2.308e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:03<00:07,  1.02s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.388e-07 (tol = 1.000e-10) r (rel) = 2.672e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:04<00:06,  1.02s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.629e-07 (tol = 1.000e-10) r (rel) = 2.819e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:05<00:05,  1.02s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.841e-07 (tol = 1.000e-10) r (rel) = 3.556e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:06<00:04,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.096e-07 (tol = 1.000e-10) r (rel) = 3.711e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:07<00:03,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.015e-07 (tol = 1.000e-10) r (rel) = 4.271e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:08<00:02,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.304e-07 (tol = 1.000e-10) r (rel) = 4.447e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:09<00:01,  1.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.642e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.677e-07 (tol = 1.000e-10) r (rel) = 4.674e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:10<00:00,  1.04s/it]100%|██████████| 10/10 [00:10<00:00,  1.03s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:14,  1.64s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.633e-07 (tol = 1.000e-10) r (rel) = 2.036e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:03<00:13,  1.65s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.239e-07 (tol = 1.000e-10) r (rel) = 2.302e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:04<00:11,  1.66s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.866e-07 (tol = 1.000e-10) r (rel) = 2.577e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:06<00:09,  1.65s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.102e-07 (tol = 1.000e-10) r (rel) = 2.681e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:08<00:08,  1.65s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.695e-07 (tol = 1.000e-10) r (rel) = 3.381e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:09<00:06,  1.66s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.601e-07 (tol = 1.000e-10) r (rel) = 3.779e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:11<00:04,  1.66s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.512e-07 (tol = 1.000e-10) r (rel) = 3.740e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:13<00:03,  1.64s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.988e-07 (tol = 1.000e-10) r (rel) = 3.949e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:14<00:01,  1.63s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.154e-06 (tol = 1.000e-10) r (rel) = 5.072e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:16<00:00,  1.67s/it]100%|██████████| 10/10 [00:16<00:00,  1.66s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:16,  1.83s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.633e-07 (tol = 1.000e-10) r (rel) = 2.036e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:03<00:14,  1.80s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.239e-07 (tol = 1.000e-10) r (rel) = 2.302e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:05<00:12,  1.82s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.866e-07 (tol = 1.000e-10) r (rel) = 2.577e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:07<00:10,  1.77s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.102e-07 (tol = 1.000e-10) r (rel) = 2.681e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:08<00:08,  1.77s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.695e-07 (tol = 1.000e-10) r (rel) = 3.381e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:10<00:07,  1.80s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.601e-07 (tol = 1.000e-10) r (rel) = 3.779e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:12<00:05,  1.79s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.512e-07 (tol = 1.000e-10) r (rel) = 3.740e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:14<00:03,  1.81s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.988e-07 (tol = 1.000e-10) r (rel) = 3.949e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:16<00:01,  1.83s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.276e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.154e-06 (tol = 1.000e-10) r (rel) = 5.072e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:17<00:00,  1.81s/it]100%|██████████| 10/10 [00:17<00:00,  1.80s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:15,  1.76s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.457e-07 (tol = 1.000e-10) r (rel) = 1.969e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:03<00:14,  1.82s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.049e-07 (tol = 1.000e-10) r (rel) = 2.230e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:05<00:13,  1.87s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.831e-07 (tol = 1.000e-10) r (rel) = 2.575e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:07<00:11,  1.87s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.048e-07 (tol = 1.000e-10) r (rel) = 2.671e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:09<00:09,  1.91s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.173e-07 (tol = 1.000e-10) r (rel) = 3.610e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:11<00:07,  1.94s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.398e-07 (tol = 1.000e-10) r (rel) = 3.709e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:13<00:05,  1.96s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.642e-07 (tol = 1.000e-10) r (rel) = 3.817e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:15<00:03,  1.95s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.952e-07 (tol = 1.000e-10) r (rel) = 3.954e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:17<00:01,  1.91s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.334e-06 (tol = 1.000e-10) r (rel) = 5.892e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:19<00:00,  1.88s/it]100%|██████████| 10/10 [00:19<00:00,  1.92s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:16,  1.82s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.457e-07 (tol = 1.000e-10) r (rel) = 1.969e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:03<00:14,  1.86s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.049e-07 (tol = 1.000e-10) r (rel) = 2.230e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:05<00:12,  1.84s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.831e-07 (tol = 1.000e-10) r (rel) = 2.575e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:07<00:11,  1.87s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.048e-07 (tol = 1.000e-10) r (rel) = 2.671e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:09<00:09,  1.90s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.173e-07 (tol = 1.000e-10) r (rel) = 3.610e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:11<00:07,  1.88s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.398e-07 (tol = 1.000e-10) r (rel) = 3.709e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:13<00:05,  1.90s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.642e-07 (tol = 1.000e-10) r (rel) = 3.817e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:15<00:03,  1.91s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.952e-07 (tol = 1.000e-10) r (rel) = 3.954e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:16<00:01,  1.88s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.264e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.334e-06 (tol = 1.000e-10) r (rel) = 5.892e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:18<00:00,  1.91s/it]100%|██████████| 10/10 [00:18<00:00,  1.90s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:08,  1.12it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.039e-07 (tol = 1.000e-10) r (rel) = 1.715e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:07,  1.11it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.493e-07 (tol = 1.000e-10) r (rel) = 1.971e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:06,  1.09it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.193e-07 (tol = 1.000e-10) r (rel) = 2.366e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:03<00:05,  1.07it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.262e-07 (tol = 1.000e-10) r (rel) = 2.405e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:04<00:04,  1.07it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.675e-07 (tol = 1.000e-10) r (rel) = 3.202e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:05<00:03,  1.07it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.987e-07 (tol = 1.000e-10) r (rel) = 3.378e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:06<00:02,  1.11it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.417e-07 (tol = 1.000e-10) r (rel) = 3.621e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:07<00:01,  1.11it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.358e-07 (tol = 1.000e-10) r (rel) = 3.587e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:08<00:00,  1.09it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.736e-07 (tol = 1.000e-10) r (rel) = 4.929e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:09<00:00,  1.07it/s]100%|██████████| 10/10 [00:09<00:00,  1.08it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:08,  1.10it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.039e-07 (tol = 1.000e-10) r (rel) = 1.715e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:07,  1.09it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.493e-07 (tol = 1.000e-10) r (rel) = 1.971e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:06,  1.07it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.193e-07 (tol = 1.000e-10) r (rel) = 2.366e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:03<00:05,  1.12it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.262e-07 (tol = 1.000e-10) r (rel) = 2.405e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:04<00:04,  1.10it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.675e-07 (tol = 1.000e-10) r (rel) = 3.202e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:05<00:03,  1.09it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.987e-07 (tol = 1.000e-10) r (rel) = 3.378e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:06<00:02,  1.08it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.417e-07 (tol = 1.000e-10) r (rel) = 3.621e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:07<00:01,  1.12it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.358e-07 (tol = 1.000e-10) r (rel) = 3.587e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:08<00:00,  1.12it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.772e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.736e-07 (tol = 1.000e-10) r (rel) = 4.929e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:09<00:00,  1.11it/s]100%|██████████| 10/10 [00:09<00:00,  1.10it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:07,  1.19it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.702e-07 (tol = 1.000e-10) r (rel) = 1.483e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:06,  1.25it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.153e-07 (tol = 1.000e-10) r (rel) = 1.731e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:05,  1.24it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.805e-07 (tol = 1.000e-10) r (rel) = 2.089e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:03<00:04,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.919e-07 (tol = 1.000e-10) r (rel) = 2.151e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:04<00:04,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.176e-07 (tol = 1.000e-10) r (rel) = 2.841e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:04<00:03,  1.25it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.551e-07 (tol = 1.000e-10) r (rel) = 3.046e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:05<00:02,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.926e-07 (tol = 1.000e-10) r (rel) = 3.252e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:06<00:01,  1.22it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.604e-07 (tol = 1.000e-10) r (rel) = 3.076e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:07<00:00,  1.26it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.064e-07 (tol = 1.000e-10) r (rel) = 4.426e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:08<00:00,  1.23it/s]100%|██████████| 10/10 [00:08<00:00,  1.24it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:06,  1.37it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.702e-07 (tol = 1.000e-10) r (rel) = 1.483e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:06,  1.30it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.153e-07 (tol = 1.000e-10) r (rel) = 1.731e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:05,  1.25it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.805e-07 (tol = 1.000e-10) r (rel) = 2.089e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:03<00:04,  1.22it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.919e-07 (tol = 1.000e-10) r (rel) = 2.151e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:04<00:04,  1.25it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.176e-07 (tol = 1.000e-10) r (rel) = 2.841e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:04<00:03,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.551e-07 (tol = 1.000e-10) r (rel) = 3.046e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:05<00:02,  1.21it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.926e-07 (tol = 1.000e-10) r (rel) = 3.252e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:06<00:01,  1.22it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.604e-07 (tol = 1.000e-10) r (rel) = 3.076e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:07<00:00,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.822e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.064e-07 (tol = 1.000e-10) r (rel) = 4.426e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:08<00:00,  1.21it/s]100%|██████████| 10/10 [00:08<00:00,  1.21it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:06,  1.30it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.858e-07 (tol = 1.000e-10) r (rel) = 1.573e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:06,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.217e-07 (tol = 1.000e-10) r (rel) = 1.771e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:05,  1.20it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.801e-07 (tol = 1.000e-10) r (rel) = 2.092e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:03<00:04,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.921e-07 (tol = 1.000e-10) r (rel) = 2.158e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:04<00:04,  1.20it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.221e-07 (tol = 1.000e-10) r (rel) = 2.874e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:05<00:03,  1.18it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.832e-07 (tol = 1.000e-10) r (rel) = 3.210e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:05<00:02,  1.18it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.728e-07 (tol = 1.000e-10) r (rel) = 3.153e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:06<00:01,  1.19it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.132e-07 (tol = 1.000e-10) r (rel) = 3.375e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:07<00:00,  1.17it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.853e-07 (tol = 1.000e-10) r (rel) = 4.873e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:08<00:00,  1.16it/s]100%|██████████| 10/10 [00:08<00:00,  1.17it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:07,  1.28it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.858e-07 (tol = 1.000e-10) r (rel) = 1.573e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:06,  1.23it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.217e-07 (tol = 1.000e-10) r (rel) = 1.771e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:05,  1.17it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.801e-07 (tol = 1.000e-10) r (rel) = 2.092e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:03<00:05,  1.15it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.921e-07 (tol = 1.000e-10) r (rel) = 2.158e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:04<00:04,  1.17it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.221e-07 (tol = 1.000e-10) r (rel) = 2.874e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:05<00:03,  1.16it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.832e-07 (tol = 1.000e-10) r (rel) = 3.210e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:06<00:02,  1.15it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.728e-07 (tol = 1.000e-10) r (rel) = 3.153e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:06<00:01,  1.16it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.132e-07 (tol = 1.000e-10) r (rel) = 3.375e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:07<00:00,  1.18it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.817e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.853e-07 (tol = 1.000e-10) r (rel) = 4.873e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:08<00:00,  1.17it/s]100%|██████████| 10/10 [00:08<00:00,  1.16it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:04,  1.94it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.144e-07 (tol = 1.000e-10) r (rel) = 1.645e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:04,  1.90it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.523e-07 (tol = 1.000e-10) r (rel) = 1.935e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:01<00:03,  1.90it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.165e-07 (tol = 1.000e-10) r (rel) = 2.428e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:03,  1.88it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.107e-07 (tol = 1.000e-10) r (rel) = 2.384e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:02<00:02,  1.88it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.050e-07 (tol = 1.000e-10) r (rel) = 3.107e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:03<00:02,  1.87it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.414e-07 (tol = 1.000e-10) r (rel) = 3.386e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:03<00:01,  1.90it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.754e-07 (tol = 1.000e-10) r (rel) = 3.647e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:04<00:01,  1.88it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.709e-07 (tol = 1.000e-10) r (rel) = 3.612e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:04<00:00,  1.88it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.100e-07 (tol = 1.000e-10) r (rel) = 4.680e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:05<00:00,  1.88it/s]100%|██████████| 10/10 [00:05<00:00,  1.88it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:04,  2.04it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.144e-07 (tol = 1.000e-10) r (rel) = 1.645e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:04,  1.98it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.523e-07 (tol = 1.000e-10) r (rel) = 1.935e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:01<00:03,  1.97it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.165e-07 (tol = 1.000e-10) r (rel) = 2.428e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:03,  1.95it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.107e-07 (tol = 1.000e-10) r (rel) = 2.384e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:02<00:02,  1.94it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.050e-07 (tol = 1.000e-10) r (rel) = 3.107e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:03<00:02,  1.93it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.414e-07 (tol = 1.000e-10) r (rel) = 3.386e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:03<00:01,  1.92it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.754e-07 (tol = 1.000e-10) r (rel) = 3.647e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:04<00:01,  1.93it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.709e-07 (tol = 1.000e-10) r (rel) = 3.612e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:04<00:00,  1.92it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.304e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.100e-07 (tol = 1.000e-10) r (rel) = 4.680e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:05<00:00,  1.94it/s]100%|██████████| 10/10 [00:05<00:00,  1.93it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:19,  2.15s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.374e-07 (tol = 1.000e-10) r (rel) = 2.729e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:17,  2.16s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.383e-07 (tol = 1.000e-10) r (rel) = 3.161e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:06<00:15,  2.17s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.381e-07 (tol = 1.000e-10) r (rel) = 4.016e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:08<00:13,  2.18s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.039e-06 (tol = 1.000e-10) r (rel) = 4.448e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:10<00:10,  2.16s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.479e-06 (tol = 1.000e-10) r (rel) = 6.334e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:13<00:08,  2.17s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.542e-06 (tol = 1.000e-10) r (rel) = 6.600e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:15<00:06,  2.21s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.633e-06 (tol = 1.000e-10) r (rel) = 6.990e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:17<00:04,  2.27s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.439e-06 (tol = 1.000e-10) r (rel) = 6.159e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:20<00:02,  2.30s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.426e-06 (tol = 1.000e-10) r (rel) = 1.039e-14 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:22<00:00,  2.33s/it]100%|██████████| 10/10 [00:22<00:00,  2.25s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:20,  2.32s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.374e-07 (tol = 1.000e-10) r (rel) = 2.729e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:18,  2.37s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.383e-07 (tol = 1.000e-10) r (rel) = 3.161e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:07<00:16,  2.39s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.381e-07 (tol = 1.000e-10) r (rel) = 4.016e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:09<00:14,  2.38s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.039e-06 (tol = 1.000e-10) r (rel) = 4.448e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:11<00:11,  2.33s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.479e-06 (tol = 1.000e-10) r (rel) = 6.334e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:14<00:09,  2.31s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.542e-06 (tol = 1.000e-10) r (rel) = 6.600e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:16<00:06,  2.28s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.633e-06 (tol = 1.000e-10) r (rel) = 6.990e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:18<00:04,  2.24s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.439e-06 (tol = 1.000e-10) r (rel) = 6.159e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:20<00:02,  2.28s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.336e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.426e-06 (tol = 1.000e-10) r (rel) = 1.039e-14 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:23<00:00,  2.35s/it]100%|██████████| 10/10 [00:23<00:00,  2.33s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:18,  2.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.760e-07 (tol = 1.000e-10) r (rel) = 3.319e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:16,  2.11s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.968e-07 (tol = 1.000e-10) r (rel) = 3.836e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:06<00:15,  2.18s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.206e-06 (tol = 1.000e-10) r (rel) = 5.157e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:08<00:13,  2.18s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.071e-06 (tol = 1.000e-10) r (rel) = 4.580e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:11<00:11,  2.21s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.379e-06 (tol = 1.000e-10) r (rel) = 5.897e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:13<00:08,  2.24s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.441e-06 (tol = 1.000e-10) r (rel) = 6.164e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:15<00:06,  2.24s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.485e-06 (tol = 1.000e-10) r (rel) = 6.352e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:17<00:04,  2.28s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.983e-06 (tol = 1.000e-10) r (rel) = 8.482e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:20<00:02,  2.30s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.287e-06 (tol = 1.000e-10) r (rel) = 9.781e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:22<00:00,  2.33s/it]100%|██████████| 10/10 [00:22<00:00,  2.27s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:19,  2.18s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.760e-07 (tol = 1.000e-10) r (rel) = 3.319e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:18,  2.26s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.968e-07 (tol = 1.000e-10) r (rel) = 3.836e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:07<00:16,  2.30s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.206e-06 (tol = 1.000e-10) r (rel) = 5.157e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:09<00:13,  2.31s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.071e-06 (tol = 1.000e-10) r (rel) = 4.580e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:11<00:11,  2.32s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.379e-06 (tol = 1.000e-10) r (rel) = 5.897e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:14<00:09,  2.32s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.441e-06 (tol = 1.000e-10) r (rel) = 6.164e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:16<00:07,  2.34s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.485e-06 (tol = 1.000e-10) r (rel) = 6.352e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:18<00:04,  2.35s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.983e-06 (tol = 1.000e-10) r (rel) = 8.482e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:21<00:02,  2.36s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.338e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.287e-06 (tol = 1.000e-10) r (rel) = 9.781e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:23<00:00,  2.36s/it]100%|██████████| 10/10 [00:23<00:00,  2.35s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:06,  1.48it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.014e-07 (tol = 1.000e-10) r (rel) = 1.949e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:05,  1.54it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.343e-07 (tol = 1.000e-10) r (rel) = 2.163e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:01<00:04,  1.50it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.914e-07 (tol = 1.000e-10) r (rel) = 2.532e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:03,  1.56it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.889e-07 (tol = 1.000e-10) r (rel) = 2.515e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:03<00:03,  1.51it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.968e-07 (tol = 1.000e-10) r (rel) = 3.214e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:03<00:02,  1.56it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.366e-07 (tol = 1.000e-10) r (rel) = 3.471e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:04<00:01,  1.54it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.556e-07 (tol = 1.000e-10) r (rel) = 3.594e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:05<00:01,  1.55it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.875e-07 (tol = 1.000e-10) r (rel) = 3.800e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:05<00:00,  1.56it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.870e-07 (tol = 1.000e-10) r (rel) = 4.444e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:06<00:00,  1.51it/s]100%|██████████| 10/10 [00:06<00:00,  1.54it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:06,  1.50it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.014e-07 (tol = 1.000e-10) r (rel) = 1.949e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:05,  1.57it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.343e-07 (tol = 1.000e-10) r (rel) = 2.163e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:01<00:04,  1.51it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.914e-07 (tol = 1.000e-10) r (rel) = 2.532e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:03,  1.57it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.889e-07 (tol = 1.000e-10) r (rel) = 2.515e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:03<00:03,  1.52it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.968e-07 (tol = 1.000e-10) r (rel) = 3.214e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:03<00:02,  1.57it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.366e-07 (tol = 1.000e-10) r (rel) = 3.471e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:04<00:01,  1.54it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.556e-07 (tol = 1.000e-10) r (rel) = 3.594e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:05<00:01,  1.53it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.875e-07 (tol = 1.000e-10) r (rel) = 3.800e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:05<00:00,  1.55it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.546e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.870e-07 (tol = 1.000e-10) r (rel) = 4.444e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:06<00:00,  1.52it/s]100%|██████████| 10/10 [00:06<00:00,  1.54it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:06,  1.31it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.109e-07 (tol = 1.000e-10) r (rel) = 2.035e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:05,  1.36it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.548e-07 (tol = 1.000e-10) r (rel) = 2.323e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:05,  1.34it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.056e-07 (tol = 1.000e-10) r (rel) = 2.656e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:04,  1.34it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.123e-07 (tol = 1.000e-10) r (rel) = 2.700e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:03<00:03,  1.37it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.261e-07 (tol = 1.000e-10) r (rel) = 3.444e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:04<00:02,  1.34it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.602e-07 (tol = 1.000e-10) r (rel) = 3.667e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:05<00:02,  1.38it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.778e-07 (tol = 1.000e-10) r (rel) = 3.783e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:05<00:01,  1.36it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.742e-07 (tol = 1.000e-10) r (rel) = 3.759e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:06<00:00,  1.34it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.598e-07 (tol = 1.000e-10) r (rel) = 4.320e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:07<00:00,  1.40it/s]100%|██████████| 10/10 [00:07<00:00,  1.38it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:06,  1.31it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.109e-07 (tol = 1.000e-10) r (rel) = 2.035e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:05,  1.35it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.548e-07 (tol = 1.000e-10) r (rel) = 2.323e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:02<00:05,  1.34it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.056e-07 (tol = 1.000e-10) r (rel) = 2.656e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:04,  1.33it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.123e-07 (tol = 1.000e-10) r (rel) = 2.700e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:03<00:03,  1.37it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.261e-07 (tol = 1.000e-10) r (rel) = 3.444e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:04<00:02,  1.34it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.602e-07 (tol = 1.000e-10) r (rel) = 3.667e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:05<00:02,  1.32it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.778e-07 (tol = 1.000e-10) r (rel) = 3.783e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:05<00:01,  1.36it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.742e-07 (tol = 1.000e-10) r (rel) = 3.759e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:06<00:00,  1.34it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.527e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.598e-07 (tol = 1.000e-10) r (rel) = 4.320e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:07<00:00,  1.32it/s]100%|██████████| 10/10 [00:07<00:00,  1.34it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:19,  2.19s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.213e-07 (tol = 1.000e-10) r (rel) = 2.725e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:17,  2.21s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.946e-07 (tol = 1.000e-10) r (rel) = 3.046e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:06<00:16,  2.30s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.742e-07 (tol = 1.000e-10) r (rel) = 3.395e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:09<00:13,  2.30s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.782e-07 (tol = 1.000e-10) r (rel) = 3.413e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:11<00:11,  2.29s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.003e-06 (tol = 1.000e-10) r (rel) = 4.399e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:13<00:09,  2.32s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.069e-06 (tol = 1.000e-10) r (rel) = 4.689e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:16<00:06,  2.32s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.085e-06 (tol = 1.000e-10) r (rel) = 4.758e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:18<00:04,  2.33s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.121e-06 (tol = 1.000e-10) r (rel) = 4.915e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:21<00:02,  2.35s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.369e-06 (tol = 1.000e-10) r (rel) = 6.006e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:23<00:00,  2.39s/it]100%|██████████| 10/10 [00:23<00:00,  2.35s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:19,  2.19s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.213e-07 (tol = 1.000e-10) r (rel) = 2.725e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:17,  2.23s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.946e-07 (tol = 1.000e-10) r (rel) = 3.046e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:06<00:15,  2.26s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.742e-07 (tol = 1.000e-10) r (rel) = 3.395e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:09<00:13,  2.25s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.782e-07 (tol = 1.000e-10) r (rel) = 3.413e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:11<00:11,  2.27s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.003e-06 (tol = 1.000e-10) r (rel) = 4.399e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:13<00:09,  2.28s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.069e-06 (tol = 1.000e-10) r (rel) = 4.689e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:16<00:06,  2.30s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.085e-06 (tol = 1.000e-10) r (rel) = 4.758e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:18<00:04,  2.31s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.121e-06 (tol = 1.000e-10) r (rel) = 4.915e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:20<00:02,  2.33s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.369e-06 (tol = 1.000e-10) r (rel) = 6.006e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:23<00:00,  2.33s/it]100%|██████████| 10/10 [00:23<00:00,  2.31s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:16,  1.89s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.281e-07 (tol = 1.000e-10) r (rel) = 2.323e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:03<00:15,  1.90s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.967e-07 (tol = 1.000e-10) r (rel) = 2.625e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:05<00:13,  1.92s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.553e-07 (tol = 1.000e-10) r (rel) = 2.883e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:07<00:11,  1.95s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.913e-07 (tol = 1.000e-10) r (rel) = 3.041e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:09<00:09,  1.96s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.756e-07 (tol = 1.000e-10) r (rel) = 3.852e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:11<00:07,  1.97s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.175e-07 (tol = 1.000e-10) r (rel) = 4.037e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:13<00:06,  2.01s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.824e-07 (tol = 1.000e-10) r (rel) = 4.322e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:16<00:04,  2.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.004e-06 (tol = 1.000e-10) r (rel) = 4.418e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:18<00:02,  2.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.265e-06 (tol = 1.000e-10) r (rel) = 5.564e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:20<00:00,  2.06s/it]100%|██████████| 10/10 [00:20<00:00,  2.01s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:01<00:17,  1.96s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.281e-07 (tol = 1.000e-10) r (rel) = 2.323e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:16,  2.00s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.967e-07 (tol = 1.000e-10) r (rel) = 2.625e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:06<00:14,  2.01s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.553e-07 (tol = 1.000e-10) r (rel) = 2.883e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:08<00:12,  2.01s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.913e-07 (tol = 1.000e-10) r (rel) = 3.041e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:10<00:10,  2.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.756e-07 (tol = 1.000e-10) r (rel) = 3.852e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:12<00:08,  2.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.175e-07 (tol = 1.000e-10) r (rel) = 4.037e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:14<00:06,  2.03s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.824e-07 (tol = 1.000e-10) r (rel) = 4.322e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:16<00:04,  2.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.004e-06 (tol = 1.000e-10) r (rel) = 4.418e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:18<00:02,  2.07s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.273e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.265e-06 (tol = 1.000e-10) r (rel) = 5.564e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:20<00:00,  2.09s/it]100%|██████████| 10/10 [00:20<00:00,  2.06s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:18,  2.06s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.700e-07 (tol = 1.000e-10) r (rel) = 2.500e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:16,  2.06s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.197e-07 (tol = 1.000e-10) r (rel) = 2.718e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:06<00:14,  2.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.918e-07 (tol = 1.000e-10) r (rel) = 3.034e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:08<00:12,  2.10s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.311e-07 (tol = 1.000e-10) r (rel) = 3.207e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:10<00:10,  2.11s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.869e-07 (tol = 1.000e-10) r (rel) = 3.890e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:12<00:08,  2.12s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.616e-07 (tol = 1.000e-10) r (rel) = 4.218e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:14<00:06,  2.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.981e-07 (tol = 1.000e-10) r (rel) = 4.378e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:16<00:04,  2.11s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.009e-06 (tol = 1.000e-10) r (rel) = 4.427e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:18<00:02,  2.11s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.256e-06 (tol = 1.000e-10) r (rel) = 5.507e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:21<00:00,  2.13s/it]100%|██████████| 10/10 [00:21<00:00,  2.11s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:02<00:18,  2.01s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.700e-07 (tol = 1.000e-10) r (rel) = 2.500e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:04<00:16,  2.02s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.197e-07 (tol = 1.000e-10) r (rel) = 2.718e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:06<00:14,  2.05s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 6.918e-07 (tol = 1.000e-10) r (rel) = 3.034e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:08<00:12,  2.06s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 7.311e-07 (tol = 1.000e-10) r (rel) = 3.207e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:10<00:10,  2.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 8.869e-07 (tol = 1.000e-10) r (rel) = 3.890e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:12<00:08,  2.09s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.616e-07 (tol = 1.000e-10) r (rel) = 4.218e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:14<00:06,  2.10s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 9.981e-07 (tol = 1.000e-10) r (rel) = 4.378e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:16<00:04,  2.07s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.009e-06 (tol = 1.000e-10) r (rel) = 4.427e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:18<00:02,  2.04s/it]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 2.280e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 1.256e-06 (tol = 1.000e-10) r (rel) = 5.507e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:20<00:00,  2.03s/it]100%|██████████| 10/10 [00:20<00:00,  2.06s/it]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:04,  2.12it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.881e-07 (tol = 1.000e-10) r (rel) = 1.930e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:04,  1.91it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.987e-07 (tol = 1.000e-10) r (rel) = 2.001e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:01<00:03,  1.93it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.401e-07 (tol = 1.000e-10) r (rel) = 2.278e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:03,  1.83it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.518e-07 (tol = 1.000e-10) r (rel) = 2.357e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:02<00:02,  1.87it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.076e-07 (tol = 1.000e-10) r (rel) = 2.731e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:03<00:02,  1.78it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.805e-07 (tol = 1.000e-10) r (rel) = 3.219e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:03<00:01,  1.83it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.772e-07 (tol = 1.000e-10) r (rel) = 3.197e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:04<00:01,  1.76it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.206e-07 (tol = 1.000e-10) r (rel) = 3.488e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:05<00:00,  1.81it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.555e-07 (tol = 1.000e-10) r (rel) = 3.721e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:05<00:00,  1.74it/s]100%|██████████| 10/10 [00:05<00:00,  1.77it/s]
+  0%|          | 0/10 [00:00<?, ?it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 0.000e+00 (tol = 1.000e-10) r (rel) = -nan (tol = 1.000e-09)
+  Newton solver finished in 0 iterations and 0 linear solver iterations.
+ 10%|█         | 1/10 [00:00<00:04,  1.89it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.881e-07 (tol = 1.000e-10) r (rel) = 1.930e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 20%|██        | 2/10 [00:01<00:04,  1.85it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 2.987e-07 (tol = 1.000e-10) r (rel) = 2.001e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 30%|███       | 3/10 [00:01<00:03,  1.86it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.401e-07 (tol = 1.000e-10) r (rel) = 2.278e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 40%|████      | 4/10 [00:02<00:03,  1.84it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 3.518e-07 (tol = 1.000e-10) r (rel) = 2.357e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 50%|█████     | 5/10 [00:02<00:02,  1.87it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.076e-07 (tol = 1.000e-10) r (rel) = 2.731e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 60%|██████    | 6/10 [00:03<00:02,  1.79it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.805e-07 (tol = 1.000e-10) r (rel) = 3.219e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 70%|███████   | 7/10 [00:03<00:01,  1.82it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 4.772e-07 (tol = 1.000e-10) r (rel) = 3.197e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 80%|████████  | 8/10 [00:04<00:01,  1.75it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.206e-07 (tol = 1.000e-10) r (rel) = 3.488e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+ 90%|█████████ | 9/10 [00:04<00:00,  1.80it/s]Solving nonlinear variational problem.
+  Newton iteration 0: r (abs) = 1.493e+08 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+  Newton iteration 1: r (abs) = 5.555e-07 (tol = 1.000e-10) r (rel) = 3.721e-15 (tol = 1.000e-09)
+  Newton solver finished in 1 iterations and 1 linear solver iterations.
+100%|██████████| 10/10 [00:05<00:00,  1.73it/s]100%|██████████| 10/10 [00:05<00:00,  1.78it/s]
+
+
+	    NEORL: NeuroEvolution Optimisation with Reinforcement Learning
+			 ███╗   ██╗███████╗ ██████╗ ██████╗ ██╗     
+			 ████╗  ██║██╔════╝██╔═══██╗██╔══██╗██║     
+			 ██╔██╗ ██║█████╗  ██║   ██║██████╔╝██║     
+			 ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██║     
+			 ██║ ╚████║███████╗╚██████╔╝██║  ██║███████╗
+			 ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝                                                
+Copyright © 2021 Exelon Corporation (https://www.exeloncorp.com/) in collaboration with 
+             MIT Nuclear Science and Engineering (https://web.mit.edu/nse/)
+                             All Rights Reserved
+
+                       
+
+
+Iteration 1
+
+Nb of nodes : 1318
+Nb of cells : 2352
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.551610377269524, 0.5850165525477065, 0.6197101631790086, 0.658154001353382, 0.681261156040904, 0.6817713466652745, 0.6988542637558477, 0.7250044100292207, 0.7452521700356719]
+
+Iteration 2
+
+Nb of nodes : 1318
+Nb of cells : 2352
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+end
+shape of epsilon_u: (28224,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.5494607765522278, 0.575467080365367, 0.6053221243705277, 0.632430912, 0.6656561005113221, 0.6887250390886438, 0.691310285012285, 0.6962508006449879, 0.7182344181459567]
+
+Iteration 3
+
+Nb of nodes : 2165
+Nb of cells : 4161
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.9555879919465213, 0.9555879919465213, 0.9561100431890405, 0.9568349382143044, 0.9622150955525003, 0.8456772, 0.926874, 1.000002, 1.000002]
+
+Iteration 4
+
+Nb of nodes : 2165
+Nb of cells : 4161
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+end
+shape of epsilon_u: (49932,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.9544291355789262, 0.9544291355789262, 0.954715357034488, 0.9562810172520482, 0.9607937525580451, 0.8121232561983474, 0.8055924000000001, 0.828162, nan]
+
+Iteration 5
+
+Nb of nodes : 2376
+Nb of cells : 4215
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.6591856387098606, 0.673698584446409, 0.6859698708189159, 0.7043838974452006, 0.7297946857718336, 0.7435783486358193, 0.7501387549333786, 0.77608708125, 0.7804143733333336]
+
+Iteration 6
+
+Nb of nodes : 2376
+Nb of cells : 4215
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+end
+shape of epsilon_u: (50580,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.6660102213082585, 0.6803925244741998, 0.6917694071183271, 0.7070832598813745, 0.7298463564028538, 0.7501158277835588, 0.7630951946366782, 0.7543276780045353, 0.7430433046875001]
+
+Iteration 7
+
+Nb of nodes : 3760
+Nb of cells : 6810
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.5817470714861597, 0.5913406198712284, 0.6136820275265534, 0.6409575915713484, 0.6434147143241066, 0.6359481435452449, 0.6055058173706128, 0.6188319225721507, 0.6309124851860102]
+
+Iteration 8
+
+Nb of nodes : 3760
+Nb of cells : 6810
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+end
+shape of epsilon_u: (81720,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.5503890313097304, 0.5674542526511466, 0.5917458912000001, 0.6101112904968506, 0.6172532346693863, 0.6060067612293343, 0.5977590734332948, 0.5835973472607744, 0.5540946653260557]
+
+Iteration 9
+
+Nb of nodes : 4169
+Nb of cells : 7368
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.14884749883366852, 0.15571422531462906, 0.1550083726830053, 0.14557140353153888, 0.12068189997135745, 0.10062977070509059, 0.09126835880862959, 0.0715086524552138, 0.06783043235071808]
+
+Iteration 10
+
+Nb of nodes : 4169
+Nb of cells : 7368
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+end
+shape of epsilon_u: (88416,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.14428787978142077, 0.14926597737068245, 0.14492922537608816, 0.1392527655450161, 0.11908649466989162, 0.10964762039487849, 0.11040625467930146, 0.10134226000792707, 0.10085030400201997]
+
+Iteration 11
+
+Nb of nodes : 2049
+Nb of cells : 3558
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.30348325874291116, 0.3366119985003342, 0.36014167816625947, 0.3849948481546761, 0.40382602514177696, 0.42529047263924263, 0.44210537956122625, 0.47012302987077187, 0.47737453964907944]
+
+Iteration 12
+
+Nb of nodes : 2049
+Nb of cells : 3558
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+end
+shape of epsilon_u: (42696,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.30155067685818454, 0.33652404116870255, 0.3575678335469545, 0.39351795796347305, 0.4134641947793164, 0.4405860496094709, 0.45966855873393797, 0.505488018937003, 0.5120993248186496]
+
+Iteration 13
+
+Nb of nodes : 1939
+Nb of cells : 3200
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.13360051769272613, 0.13620898688435865, 0.14399529292076313, 0.1540897632291289, 0.15052180896770473, 0.15587951132553018, 0.16249205166536201, 0.1692731928994083, 0.17773365054917312]
+
+Iteration 14
+
+Nb of nodes : 1939
+Nb of cells : 3200
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+end
+shape of epsilon_u: (38400,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.1224363466004811, 0.12917061621477458, 0.1367592370312965, 0.14189089683476697, 0.1411282224395651, 0.14382444096000002, 0.14932037907240808, 0.15450392156126855, 0.1368352421875]
+
+Iteration 15
+
+Nb of nodes : 2067
+Nb of cells : 3400
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.17090647819345622, 0.17098028344672794, 0.16332823723183393, 0.15904092637375444, 0.14716576283057603, 0.13163272333795015, 0.12883361937528293, 0.11525794273192111, 0.12487425164445942]
+
+Iteration 16
+
+Nb of nodes : 2067
+Nb of cells : 3400
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+end
+shape of epsilon_u: (40800,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.15950628304564993, 0.16287861869145673, 0.16255015008502335, 0.1584224231225378, 0.14833919673451176, 0.12690306519409203, 0.1299011279000595, 0.11989367878532942, 0.11247295800303594]
+
+Iteration 17
+
+Nb of nodes : 1348
+Nb of cells : 2160
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.5027036259166755, 0.5558142430233942, 0.6239519898176489, 0.6623304010647738, 0.6782293008821341, 0.706044297379224, 0.7180099430927036, 0.721461073015873, 0.761594171875]
+
+Iteration 18
+
+Nb of nodes : 1348
+Nb of cells : 2160
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+end
+shape of epsilon_u: (25920,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.516262331567537, 0.5844766574674212, 0.6521859992310673, 0.6837202216471282, 0.7049688026689918, 0.7244177578125002, 0.7386073941838199, 0.7432028142857143, 0.7258209484685731]
+
+Iteration 19
+
+Nb of nodes : 5219
+Nb of cells : 9516
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.27980504782433263, 0.30482160294640004, 0.33322518132602325, 0.33758301813216574, 0.35852597574805156, 0.3786198577938349, 0.4053315076643701, 0.4264324865112026, 0.44173649617346944]
+
+Iteration 20
+
+Nb of nodes : 5219
+Nb of cells : 9516
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+end
+shape of epsilon_u: (114192,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.2691480518811961, 0.2949041501368728, 0.33065331765509315, 0.35710588701885965, 0.377845050051278, 0.39456762436213993, 0.40485580800000004, 0.3853736512988639, 0.39274497415450343]
+
+Iteration 21
+
+Nb of nodes : 5224
+Nb of cells : 9280
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.1000627983969442, 0.10456796404256724, 0.10774637739911047, 0.11340320705955537, 0.12007974148417791, 0.11112673262741661, 0.1013274778965683, 0.09515305092592594, 0.10257023140495869]
+
+Iteration 22
+
+Nb of nodes : 5224
+Nb of cells : 9280
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+end
+shape of epsilon_u: (111360,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.10413939663905326, 0.10771251674898648, 0.11163720879754824, 0.11072357381308691, 0.10686158785964245, 0.10611289441157132, 0.10433463545745815, 0.10517513346245663, 0.10047800655051142]
+
+Iteration 23
+
+Nb of nodes : 1387
+Nb of cells : 2575
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.7752188132735771, 0.8001650368897251, 0.8125201381018875, 0.8319486690689611, 0.8473500197475535, 0.8439524813219517, 0.7719953305785124, 0.7740751102040818, 0.7660335266272191]
+
+Iteration 24
+
+Nb of nodes : 1387
+Nb of cells : 2575
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+end
+shape of epsilon_u: (30900,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.7817186619101206, 0.799873597953525, 0.8187047293872821, 0.8343880348555212, 0.8445348283517584, 0.8361141422962522, 0.7459568715134889, 0.7757175371900829, 0.8781304897959186]
+
+Iteration 25
+
+Nb of nodes : 1516
+Nb of cells : 2851
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.733848957183818, 0.7390999558728748, 0.75867260736, 0.7856342420143556, 0.8090733213433796, 0.8172677240075615, 0.794313288581315, 0.7389723703703703, 0.6896442857142857]
+
+Iteration 26
+
+Nb of nodes : 1516
+Nb of cells : 2851
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+end
+shape of epsilon_u: (34212,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.7370916379915701, 0.7427111634929173, 0.7653702184439573, 0.7882602915353198, 0.8109577871739095, 0.8177675049755441, 0.783794262137478, 0.7008119918515167, 0.7102908]
+
+Iteration 27
+
+Nb of nodes : 4927
+Nb of cells : 9484
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.7429237035205541, 0.7763934882758101, 0.8100685120589927, 0.8405073117111332, 0.8691583524786439, 0.8864377720766948, 0.900298866812759, 0.8647070999999998, 0.8295057159763314]
+
+Iteration 28
+
+Nb of nodes : 4927
+Nb of cells : 9484
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+end
+shape of epsilon_u: (113808,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.7449760331965519, 0.7779348461915534, 0.8060387995157049, 0.8309595375859177, 0.8605977082010791, 0.8776022734979181, 0.8761810305279136, 0.8106721250000003, 0.7556027573964498]
+
+Iteration 29
+
+Nb of nodes : 4227
+Nb of cells : 8050
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.8230579666118822, 0.8759140777513388, 0.8973977586588844, 0.9178737106012229, 0.9298177412953496, 0.941391657761478, 0.9231909795918369, 1.000002, 1.000002]
+
+Iteration 30
+
+Nb of nodes : 4227
+Nb of cells : 8050
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+end
+shape of epsilon_u: (96600,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.8231275765189375, 0.8806236304445288, 0.9007839482119955, 0.916740438736081, 0.9341658302510728, 0.9446565574166291, 0.94386, nan, nan]
+
+Iteration 31
+
+Nb of nodes : 4290
+Nb of cells : 8176
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.8061520123569518, 0.8694598870736986, 0.8902565787269953, 0.9050969563114729, 0.9292241031166304, 0.9393209446831801, 0.908348693877551, 1.000002, nan]
+
+Iteration 32
+
+Nb of nodes : 4290
+Nb of cells : 8176
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+end
+shape of epsilon_u: (98112,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.8058635544721591, 0.8727887121941312, 0.892806016221155, 0.9098629909956969, 0.9265190549852191, 0.9455149917091838, 0.9434778518518518, nan, nan]
+
+Iteration 33
+
+Nb of nodes : 1125
+Nb of cells : 2128
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+all data are finite after interpolation: False
+Score_stress_gap_grid = [0.9970063094288946, 0.9970063094288946, 0.9970063094288946, 0.9970063094288946, 0.9970115912684226, nan, nan, nan, nan]
+
+Iteration 34
+
+Nb of nodes : 1125
+Nb of cells : 2128
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+end
+shape of epsilon_u: (25536,)
+all data are finite after interpolation: False
+Score_stress_gap_rand = [0.9970048005054137, 0.9970048005054137, 0.9970048005054137, 0.9970048005054137, 0.9970114505460171, nan, nan, nan, nan]
+>>> 

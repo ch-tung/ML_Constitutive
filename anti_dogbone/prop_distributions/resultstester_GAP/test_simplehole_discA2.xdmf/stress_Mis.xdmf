@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<Xdmf Version="3.0">
+  <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal" Name="stress_Mis">
+      <Grid Name="stress_Mis_0" GridType="Uniform">
+        <Topology NumberOfElements="2894" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2894 3" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_0/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1527 2" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_0/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="0.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress_Mis" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="8682 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_0/cell_dofs</DataItem>
+          <DataItem Dimensions="1527 1" NumberType="Float" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_0/vector</DataItem>
+          <DataItem Dimensions="2895 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_0/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2894 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_0/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_Mis_1" GridType="Uniform">
+        <Topology NumberOfElements="2894" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2894 3" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_1/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1527 2" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_1/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="2.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress_Mis" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="8682 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_1/cell_dofs</DataItem>
+          <DataItem Dimensions="1527 1" NumberType="Float" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_1/vector</DataItem>
+          <DataItem Dimensions="2895 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_1/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2894 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_1/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_Mis_2" GridType="Uniform">
+        <Topology NumberOfElements="2894" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2894 3" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_2/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1527 2" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_2/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="5.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress_Mis" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="8682 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_2/cell_dofs</DataItem>
+          <DataItem Dimensions="1527 1" NumberType="Float" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_2/vector</DataItem>
+          <DataItem Dimensions="2895 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_2/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2894 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_2/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_Mis_3" GridType="Uniform">
+        <Topology NumberOfElements="2894" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2894 3" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_3/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1527 2" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_3/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="8.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress_Mis" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="8682 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_3/cell_dofs</DataItem>
+          <DataItem Dimensions="1527 1" NumberType="Float" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_3/vector</DataItem>
+          <DataItem Dimensions="2895 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_3/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2894 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_3/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_Mis_4" GridType="Uniform">
+        <Topology NumberOfElements="2894" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2894 3" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_4/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1527 2" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_4/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="10.666667" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress_Mis" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="8682 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_4/cell_dofs</DataItem>
+          <DataItem Dimensions="1527 1" NumberType="Float" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_4/vector</DataItem>
+          <DataItem Dimensions="2895 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_4/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2894 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_4/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_Mis_5" GridType="Uniform">
+        <Topology NumberOfElements="2894" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2894 3" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_5/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1527 2" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_5/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="13.333333" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress_Mis" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="8682 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_5/cell_dofs</DataItem>
+          <DataItem Dimensions="1527 1" NumberType="Float" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_5/vector</DataItem>
+          <DataItem Dimensions="2895 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_5/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2894 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_5/cells</DataItem>
+        </Attribute>
+      </Grid>
+      <Grid Name="stress_Mis_6" GridType="Uniform">
+        <Topology NumberOfElements="2894" TopologyType="Triangle" NodesPerElement="3">
+          <DataItem Dimensions="2894 3" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_6/mesh/topology</DataItem>
+        </Topology>
+        <Geometry GeometryType="XY">
+          <DataItem Dimensions="1527 2" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_6/mesh/geometry</DataItem>
+        </Geometry>
+        <Time Value="16.000000" />
+        <Attribute ItemType="FiniteElementFunction" ElementFamily="CG" ElementDegree="1" ElementCell="triangle" Name="stress_Mis" Center="Other" AttributeType="Scalar">
+          <DataItem Dimensions="8682 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_6/cell_dofs</DataItem>
+          <DataItem Dimensions="1527 1" NumberType="Float" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_6/vector</DataItem>
+          <DataItem Dimensions="2895 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_6/x_cell_dofs</DataItem>
+          <DataItem Dimensions="2894 1" NumberType="UInt" Format="HDF">stress_Mis.h5:stress_Mis/stress_Mis_6/cells</DataItem>
+        </Attribute>
+      </Grid>
+    </Grid>
+  </Domain>
+</Xdmf>
